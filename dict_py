@@ -1,1 +1,8 @@
-
+# creating a dictionary
+acronyms {}
+acronyms [ 'LOL' ] = ' Laugh out loud '
+acronyms [ 'IDK' ] = ' I don't know '
+acronyms [ 'PFA' ] = ' Please find attached '
+acronyms [ 'GTK' ] = ' Good to know '
+print (acronyms)
+# result come back as {'LOL': ' Laugh out loud ', 'IDK': ' I dont' know ', 'PFA': ' Please find attached ', 'GTK': ' Good to know '}
