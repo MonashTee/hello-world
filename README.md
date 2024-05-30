@@ -21,6 +21,6 @@ I recently completed my master's degree in International Economics and Managemen
 
 **📬 Connect with Me:**
 - **Email:** [akinmolayanseun@gmail.com](mailto:akinmolayanseun@gmail.com)
-- **LinkedIn:** (https://www.linkedin.com/in/https://www.linkedin.com/in/temitope-akinmolayan-bb2977125/)
+- **LinkedIn:** (https://www.linkedin.com/in/temitope-akinmolayan-bb2977125/)
 
 
